@@ -51,27 +51,27 @@ todo/
 
 ├── public/
 
-│   ├── index.html
+│├── index.html
 
-│   └── ...
+│└── ...
 
 ├── src/
 
-│   ├── components/
+│├── components/
 
-│   │   ├── Todo.js
+││├── Todo.js
 
-│   │   ├── TodoInput.js
+││├── TodoInput.js
 
-│   │   ├── TodoList.js
+││├── TodoList.js
 
-│   │   └── TodoItem.js
+││└── TodoItem.js
 
-│   ├── App.js
+│├── App.js
 
-│   ├── index.js
+│├── index.js
 
-│   └── ...
+│└── ...
 
 ├── .gitignore
 
