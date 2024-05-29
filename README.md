@@ -47,39 +47,24 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 The production-ready files will be in the build directory.
 
-todo/
-
+todo-list/
 ├── public/
-
-│├── index.html
-
-│└── ...
-
+│   ├── index.html
+│   └── ...
 ├── src/
-
-│├── components/
-
-││├── Todo.js
-
-││├── TodoInput.js
-
-││├── TodoList.js
-
-││└── TodoItem.js
-
-│├── App.js
-
-│├── index.js
-
-│└── ...
-
+│   ├── components/
+│   │   ├── Todo.js
+│   │   ├── TodoInput.js
+│   │   ├── TodoList.js
+│   │   └── TodoItem.js
+│   ├── App.js
+│   ├── index.js
+│   └── ...
 ├── .gitignore
-
 ├── package.json
-
 ├── README.md
-
 └── ...
+
 
 
 Contributing
