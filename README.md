@@ -45,27 +45,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    npm run build
 
-The production-ready files will be in the build directory.
-
-todo-list/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Todo.js
-│   │   ├── TodoInput.js
-│   │   ├── TodoList.js
-│   │   └── TodoItem.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
-
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
